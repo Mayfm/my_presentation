@@ -11,5 +11,5 @@ Currently finishing my bachelor’s thesis and really excited about what comes n
 <p align="center">
   <img src="banner.jpeg" />
 </p>
-Always open to collaboration and learning and new challenges.
+Always open to collaboration, learning and new challenges.
 <h2 align="center">🌸 maye.fosado@gmail.com</h2>
