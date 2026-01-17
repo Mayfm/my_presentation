@@ -33,7 +33,7 @@ You can find my projects in the repositories linked below:
 ---
 
 ## 📜 Certificates
-My certificates and participation records are available in the [certificates folder][./certificates/).
+My certificates and participation records are available in the [Certificates folder](./certificates/).
 
 ---
 
