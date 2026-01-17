@@ -1,8 +1,8 @@
 # 🌸 Hi! I'm Mayela, a microbiologist exploring bioinformatics.
 
-I work with **metagenomic and microbiome data** to study microbial diversity, functional pathways, and ecological interactions. I enjoy using tools like **phyloseq,** **kraken** and **KEGG Mapper** to turn sequencing data into biological insights.
+I work with **metagenomic and microbiome data** with metagenomic and microbiome data and exploring bioinformatics as a research approach applicable to biological questions in any context.
 
-I'm especially interested in the intersection of **microbiology, bioinformatics, and ecology** 🧬🌍.
+I’ve worked with tools like phyloseq, Kraken, and KEGG Mapper, and I enjoy learning new bioinformatics tools and computational
 
 I'm also part of **RSG Mexico**, where I help organize bioinformatics-related courses, symposia, and journal clubs.
 
