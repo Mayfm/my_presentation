@@ -31,7 +31,7 @@ I’m passionate about combining microbiology and bioinformatics to explore biol
 You can find my projects in the repositories linked below:
 
 ### Collaborative work
-- [Workshop Repositorie](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025) 
+- [Workshop Repository](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025) 
 
 ### Coursework Projects
 These repositories include projects and assignmentes completed during my bachelor's degree. They showcase my learning process in bioinformatics.
